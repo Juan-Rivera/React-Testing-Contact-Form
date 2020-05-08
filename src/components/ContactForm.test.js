@@ -6,4 +6,6 @@ test("Renders ContactForm without crashing", () => {
     render(<ContactForm />); 
   });
 
-  
+test('ContactForm adds a new contact to the contact list', () =>{
+    
+})
